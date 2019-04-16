@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://i.imgur.com/W5Yw70y.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.white {
+  color: white;
+  text-shadow: 5px 5px 5px black;
+  font-size: 2em;
+}
+
+.season {
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  font-size: 1.1em;
+}
+
+.title {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-weight: bold;
+}
+
+.episode {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-family: "Times New Roman";
+}
+
+.yosemite {
+  color: rgba(255, 255, 255, 0.842);
+  text-shadow: 3px 3px 3px black;
+  font-family: "Times New Roman";
+  font-size: .85em;
+}
