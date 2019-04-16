@@ -55,7 +55,7 @@ export default class App extends React.Component {
           />
         </a>
         <br style={{ lineHeight: "5" }} />
-        <div className="title">we're gonna be in the theater seeing this shit in</div>
+        <div className="title">we gonna be in the theater seeing this shit in</div>
         <br style={{lineHeight: "3"}}/>
         <div className="white">
           <span style={{ fontWeight: "bold" }}>{days}</span> days &nbsp;
