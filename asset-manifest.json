@@ -1,13 +1,13 @@
 {
-  "main.css": "/avengers/static/css/main.efbafc6e.chunk.css",
-  "main.js": "/avengers/static/js/main.01aede43.chunk.js",
-  "main.js.map": "/avengers/static/js/main.01aede43.chunk.js.map",
+  "main.css": "/avengers/static/css/main.dff0260a.chunk.css",
+  "main.js": "/avengers/static/js/main.7fe117c4.chunk.js",
+  "main.js.map": "/avengers/static/js/main.7fe117c4.chunk.js.map",
   "runtime~main.js": "/avengers/static/js/runtime~main.8e2176cc.js",
   "runtime~main.js.map": "/avengers/static/js/runtime~main.8e2176cc.js.map",
   "static/js/2.7cb9f535.chunk.js": "/avengers/static/js/2.7cb9f535.chunk.js",
   "static/js/2.7cb9f535.chunk.js.map": "/avengers/static/js/2.7cb9f535.chunk.js.map",
   "index.html": "/avengers/index.html",
-  "precache-manifest.08fe8d795261e6081a0e95205617d5d6.js": "/avengers/precache-manifest.08fe8d795261e6081a0e95205617d5d6.js",
+  "precache-manifest.da7dcd5ddd2a1acfe0be864fb7e98695.js": "/avengers/precache-manifest.da7dcd5ddd2a1acfe0be864fb7e98695.js",
   "service-worker.js": "/avengers/service-worker.js",
-  "static/css/main.efbafc6e.chunk.css.map": "/avengers/static/css/main.efbafc6e.chunk.css.map"
+  "static/css/main.dff0260a.chunk.css.map": "/avengers/static/css/main.dff0260a.chunk.css.map"
 }
