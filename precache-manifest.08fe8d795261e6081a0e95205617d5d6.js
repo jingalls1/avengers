@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/avengers/static/js/runtime~main.8e2176cc.js"
   },
   {
-    "revision": "940f3ae3e7aafbe11bd2",
-    "url": "/avengers/static/js/main.7fe117c4.chunk.js"
+    "revision": "d4a3c75099f8c4893b49",
+    "url": "/avengers/static/js/main.01aede43.chunk.js"
   },
   {
     "revision": "8795d4af043ddfe37042",
     "url": "/avengers/static/js/2.7cb9f535.chunk.js"
   },
   {
-    "revision": "940f3ae3e7aafbe11bd2",
-    "url": "/avengers/static/css/main.0983cb44.chunk.css"
+    "revision": "d4a3c75099f8c4893b49",
+    "url": "/avengers/static/css/main.efbafc6e.chunk.css"
   },
   {
-    "revision": "df40d0010c3c4421e28e783360437abc",
+    "revision": "c8e80ad59d096c4f7531f43bda350815",
     "url": "/avengers/index.html"
   }
 ];
