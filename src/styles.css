@@ -7,12 +7,14 @@ body {
   background-image: url("https://i.imgur.com/W5Yw70y.jpg");
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
 }
 
 .white {
   color: white;
   text-shadow: 5px 5px 5px black;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .season {
