@@ -23,7 +23,7 @@ export default class App extends React.Component {
 
   render() {
     let nowD = new Date().getTime();
-    let gotD = new Date(2019, 3, 28, 0, 0, 0);
+    let gotD = new Date(2019, 3, 27, 0, 0, 0);
     let t = gotD - nowD;
     let days = Math.floor(t / (1000 * 60 * 60 * 24));
     let hours = Math.floor((t % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
